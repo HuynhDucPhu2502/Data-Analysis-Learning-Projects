@@ -1,5 +1,9 @@
-Hành trình học Python và các thứ liên quan đến xử lý dữ liệu
+# Hành trình học Python và các thứ liên quan đến xử lý dữ liệu
 
-Introduction to Data Analysis là tài liệu cho học phần Phân Tích Dữ Liệu I
+## Tài liệu học phần
 
-Computational Statistics and Applications là tài liệu cho học phần Thống Kê Máy Tính và Ứng Dụng
+### Phân Tích Dữ Liệu I
+- Tài liệu: **Introduction to Data Analysis**
+
+### Thống Kê Máy Tính và Ứng Dụng
+- Tài liệu: **Computational Statistics and Applications**
